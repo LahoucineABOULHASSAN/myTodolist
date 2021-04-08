@@ -1,0 +1,13 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "This project is a To do list single page for learning to manipulate the DOM as well as to practice the HTML and CSS",
+  "main": "app.js",
+  "homepage": "https://todolist.netlify.app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LahoucineABOULHASSAN/todolist"
+  },
+  "author": "Lahoucine Aboulhassan",
+  "license": "MIT"
+}
