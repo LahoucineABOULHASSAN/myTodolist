@@ -1,4 +1,4 @@
-# Todo_List_Project
+# todolist
 
 This project is a To do list single page for learning to manipulate the DOM using jQuery as well as to practice the HTML and CSS
 
