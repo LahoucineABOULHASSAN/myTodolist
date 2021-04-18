@@ -20,12 +20,19 @@
 body {
   font-family: "Share Tech Mono", monospace;
   background: var(--bg);
+}
+main {
   display: flex;
+  overflow: hidden;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
   justify-content: center;
 }
 .container {
-  width: 500px;
-  margin-top: 25%;
+  width: 80%;
+  max-width: 500px;
+  margin: 0 auto;
   border-radius: 5px;
   background: none;
   border: 2px solid #000;
@@ -107,5 +114,23 @@ li:hover span {
   .container {
     width: 90%;
     margin: 1rem auto;
+  }
+}
+@media screen and (max-width: 300px) {
+  .container {
+    width: 95%;
+    margin: 1rem auto;
+  }
+  h1,
+  input,
+  li,
+  span {
+    height: auto;
+    line-height: inherit;
+  }
+  h1,
+  input,
+  li {
+    padding: 1rem 0.5rem;
   }
 }
