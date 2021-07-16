@@ -2,11 +2,18 @@
 
 This project is a To do list single page for learning to manipulate the DOM using jQuery as well as to practice the HTML and CSS
 
+# links
+
+[my portfolio](https://aboulhassan.netlify.app/).
+[my github](https://github.com/LahoucineABOULHASSAN).
+
+[node js](https://nodejs.org/en/download/).
+
 # License
 
 MIT License
 
-Copyright (c) [2021]`[lahoucine aboulhassan]`
+Copyright (c) [2021] [lahoucine aboulhassan](https://aboulhassan.netlify.app/).
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
